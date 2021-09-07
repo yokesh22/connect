@@ -1,0 +1,3 @@
+class Constant{
+   String currentUser="";
+}
